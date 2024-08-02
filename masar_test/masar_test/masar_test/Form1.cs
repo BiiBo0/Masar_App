@@ -10,10 +10,10 @@ using System.Windows.Forms;
 
 namespace masar_test
 {
-    public partial class Form1 : Form
+    public partial class Login_page : Form
     {
         bool flag = false;
-        public Form1()
+        public Login_page()
         {
             InitializeComponent();
           
