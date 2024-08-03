@@ -159,5 +159,20 @@
   <ItemGroup>
     <None Include="Resources\logout.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\category black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\project-management black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\setting black.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

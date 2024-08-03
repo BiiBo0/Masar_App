@@ -23,3 +23,15 @@ D:\Masar\Masar_App\masar_test\masar_test\masar_test\obj\Debug\masar_test.exe
 D:\Masar\Masar_App\masar_test\masar_test\masar_test\obj\Debug\masar_test.pdb
 D:\Masar\Masar_App\masar_test\masar_test\masar_test\obj\Debug\masar_test.Login_page.resources
 D:\Masar\Masar_App\masar_test\masar_test\masar_test\obj\Debug\masar_test.Dashboard.resources
+D:\Downloads\Masar_App-main\Masar_App-main\masar_test\masar_test\masar_test\bin\Debug\masar_test.exe.config
+D:\Downloads\Masar_App-main\Masar_App-main\masar_test\masar_test\masar_test\bin\Debug\masar_test.exe
+D:\Downloads\Masar_App-main\Masar_App-main\masar_test\masar_test\masar_test\bin\Debug\masar_test.pdb
+D:\Downloads\Masar_App-main\Masar_App-main\masar_test\masar_test\masar_test\obj\Debug\masar_test.csproj.AssemblyReference.cache
+D:\Downloads\Masar_App-main\Masar_App-main\masar_test\masar_test\masar_test\obj\Debug\masar_test.Login_page.resources
+D:\Downloads\Masar_App-main\Masar_App-main\masar_test\masar_test\masar_test\obj\Debug\masar_test.Dashboard.resources
+D:\Downloads\Masar_App-main\Masar_App-main\masar_test\masar_test\masar_test\obj\Debug\masar_test.Properties.Resources.resources
+D:\Downloads\Masar_App-main\Masar_App-main\masar_test\masar_test\masar_test\obj\Debug\masar_test.csproj.GenerateResource.cache
+D:\Downloads\Masar_App-main\Masar_App-main\masar_test\masar_test\masar_test\obj\Debug\masar_test.csproj.CoreCompileInputs.cache
+D:\Downloads\Masar_App-main\Masar_App-main\masar_test\masar_test\masar_test\obj\Debug\masar_test.csproj.Up2Date
+D:\Downloads\Masar_App-main\Masar_App-main\masar_test\masar_test\masar_test\obj\Debug\masar_test.exe
+D:\Downloads\Masar_App-main\Masar_App-main\masar_test\masar_test\masar_test\obj\Debug\masar_test.pdb
