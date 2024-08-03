@@ -136,9 +136,7 @@ namespace masar_test
             for (int i = 0; i < 100; i++)
             {
                 category_panel.Top -= moveSpeed;
-            }
-
-            // Check for panel boundaries to prevent going out of form
+        
             if (category_panel.Top >= this.side_bar.Top + 20)
             {
                 moveTimer.Stop();
